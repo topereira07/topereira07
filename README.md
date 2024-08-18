@@ -19,11 +19,9 @@ My name is António Pereira, 41y old, and I recently completed the fullstack 14w
 
 | Project Title | Description | Link |
 |---------------|-------------|------|
-| 1992 Barcelona SPA | An Spa, with mini games and a quizz, about 1992 olympic games @ Barcelona, created in 24h during the bootcamp at codeforall_. | [Here] 
-|(https://github.com/topereira07/1992-Barcelona-SPA) |
+| 1992 Barcelona SPA | An Spa, with mini games and a quizz, about 1992 olympic games @ Barcelona, created in 24h during the bootcamp at codeforall_. | [Here](https://github.com/topereira07/1992-Barcelona-SPA) |
 | MC Hunt Game | Single-Player Duck Shooting game using Simple Graphics. | [Here](https://github.com/topereira07/McHuntGame) |
-| Map Editor | Grid Painter with keyboard controls for painting, saving, and loading grid designs, using a custom graphics library and efficient file I/O. | [Here]  
-|(https://github.com/topereira07/Map-Editor) |
+| Map Editor | Grid Painter with keyboard controls for painting, saving, and loading grid designs, using a custom graphics library and efficient file I/O. | [Here](https://github.com/topereira07/Map-Editor) |
 | Jokes SPA | SPA consuming 2 rest API fetching dad jokes and chuck norris jokes. | [Here](https://github.com/topereira07/Jokes-SPA) |
 | RockPaperScissors | A Javascipt + html + css RockPaperScissors very basic game | [Here](https://github.com/topereira07/RockPaperScissors) |
 
@@ -39,20 +37,9 @@ My name is António Pereira, 41y old, and I recently completed the fullstack 14w
 
 I hope I can add as many items to this list as possible!
 
-- 🔭 I have recently developed my first real after bootcamp project, an SPA for a physiotherapy clinic, along with 3 friends.
-- Close to the end of the bootcamp, i developed in 24h a SPA themed with 1992 olympic games, with a group of 5 class mates. 
-- 🌱 I’m currently trying to learn NodeJs, React and Python, to increase my skills.
-- 👯 I’m looking to collaborate on any projects to learn as much as possible.
+- 🏃‍♂️ I have recently developed my first real after bootcamp project, an SPA for a physiotherapy clinic, along with 3 friends.
+- 🛰️ Close to the end of the bootcamp, i developed in 24h a SPA themed with 1992 olympic games, with a group of 5 class mates. 
+- 🐍 I’m currently trying to learn NodeJs, React and Python, to increase my skills.
+- 👯 I’m looking to collaborate on any projects to earn as much experience as possible.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=topereira07&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
