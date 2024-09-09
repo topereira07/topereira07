@@ -1,7 +1,7 @@
 # António Pereira - topereira07 - Hello world! 👋
 
 [![Linkedin badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antoniopereira07/)
-[![CV badge](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/1K__4GnJahiQaa3_6-OGPL22Oena4199B/view?usp=sharing)
+[![CV badge](https://img.shields.io/badge/CV-PDF-red?style=for-the-badge)](https://drive.google.com/file/d/1bKmxNeHkJpD4HsIamTh1p9-T1lyX0wl_/view?usp=sharing)
 [![Email badge](https://img.shields.io/badge/-Gmail-c71610?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:topereira07@gmail.com)
 
 # About me
