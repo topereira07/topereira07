@@ -20,7 +20,7 @@ My name is António Pereira, 41y old, and I recently completed the fullstack 14w
 |---------------|-------------|------|
 | Book Library Inventory | A management book Store, backend in Java with persistence using MySql, basic CRUD operations, deployed with Docker or Tomcat. | [Here](https://github.com/topereira07/library_inventory) |
 | 1992 Barcelona SPA | An Spa, with mini games and a quizz, about 1992 olympic games @ Barcelona, created in 24h during the bootcamp at codeforall_. | [Here](https://github.com/topereira07/1992-Barcelona-SPA) |
-| MC Hunt Game | Single-Player Duck Shooting game using Simple Graphics. | [Here](https://github.com/topereira07/McHuntGame) |
+| MC Hunt Game | JAVA Duck Shooting game using Simple Graphics library, Multi-threading, High-Score, created in 10h for GameJamWeek. | [Here](https://github.com/topereira07/McHuntGame) |
 | Map Editor | Grid Painter with keyboard controls for painting, saving, and loading grid designs, using a custom graphics library and efficient file I/O. | [Here](https://github.com/topereira07/Map-Editor) |
 | Jokes SPA | SPA consuming 2 rest API fetching dad jokes and chuck norris jokes. | [Here](https://github.com/topereira07/Jokes-SPA) |
 | RockPaperScissors | A Javascipt + html + css RockPaperScissors very basic game | [Here](https://github.com/topereira07/RockPaperScissors) |
