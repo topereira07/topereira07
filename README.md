@@ -19,8 +19,7 @@ My name is António Pereira, 41y old, and I recently completed the fullstack 14w
 | Project Title | Description | Link |
 |---------------|-------------|------|
 | Book Library Inventory | A management book Store, backend in Java with persistence using MySql, basic CRUD operations, deployed with Docker or Tomcat. | [Here](https://github.com/topereira07/library_inventory) |
-| MyPhysio Clinic | First freelance project, a physiotherapy clinic SPA, fully working, with backend in NodeJs, with API for email receiving and GoogleMaps, deployed using Netlify. |
-[Here](https://myphysio.netlify.app/) |
+| MyPhysio Clinic | First freelance project, a physiotherapy clinic SPA, with backend in NodeJs, with API for email receiving and GoogleMaps, deployed with Netlify. | [Here](https://myphysio.netlify.app/) |
 | 1992 Barcelona SPA | An Spa, with mini games and a quizz, about 1992 olympic games @ Barcelona, created in 24h during the bootcamp at codeforall_. | [Here](https://github.com/topereira07/1992-Barcelona-SPA) |
 | MC Hunt Game | JAVA Duck Shooting game using Simple Graphics library, Multi-threading, High-Score, created in 10 days for itch.io GameJamWeek. | [Here](https://github.com/topereira07/McHuntGame) |
 | Map Editor | Grid Painter with keyboard controls for painting, saving, and loading grid designs, using a custom graphics library and efficient file I/O. | [Here](https://github.com/topereira07/Map-Editor) |
