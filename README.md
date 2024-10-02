@@ -41,3 +41,6 @@ My name is António Pereira, 41y old, and I recently completed the fullstack 14w
 - 👯 I’m looking to collaborate on any projects to earn as much experience as possible.
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=topereira07&count_private=true&show_icons=true&theme=dracula&hide=contribs&hide_border=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=topereira07&icon=6&color=5)](https://visitcount.itsvg.in)
