@@ -12,7 +12,6 @@ My name is António Pereira, 41y old, and I recently completed the fullstack 14w
 - I am married since 2017.
 - I have a 5y old daughter and another one coming in October.
 - During my free time I like to read, play Video games 🎮, listen to music 🎵 and watch movies/series 🍿 .
-- My favorite foods are "Bacalhau à Brás" and Burgers 🍔 .
 
 # My Projects
 
