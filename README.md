@@ -26,17 +26,15 @@ My name is António Pereira, 41y old, and I recently completed the fullstack 14w
 | Jokes SPA | SPA consuming 2 rest API fetching dad jokes and chuck norris jokes. | [Here](https://github.com/topereira07/Jokes-SPA) |
 | RockPaperScissors | A Javascipt + html + css RockPaperScissors very basic game | [Here](https://github.com/topereira07/RockPaperScissors) |
 
-# My Programming Skills 💻
+# 👨🏼‍💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Spring](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Python-%23005C0F.svg?style=flat&logo=Python&logoColor=white) ![Python](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=flat&logo=Apache%20Ant&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=flat&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+# 📈 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=topereira07&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=topereira07&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=topereira07&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=topereira07&layout=compact&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-- ![Java badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Javascript badge](https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Html badge](https://img.shields.io/badge/Html-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-- ![Css badge](https://img.shields.io/badge/Css-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-I hope I can add as many items to this list as possible!
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=topereira07&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
 - 🏃‍♂️ I have recently developed my first real after bootcamp project, an SPA for a physiotherapy clinic, along with 3 friends.
 - 🛰️ Close to the end of the bootcamp, i developed in 24h a SPA themed with 1992 olympic games, with a group of 5 class mates. 
