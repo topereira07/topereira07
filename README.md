@@ -17,6 +17,7 @@ My name is António Pereira, 41y old, and I recently completed the fullstack 14w
 
 | Project Title | Description | Link |
 |---------------|-------------|------|
+| 100 Days Python Bootcamp | This project is part of an intensive Python programming course that will take me from beginner to advanced, showcasing a variety of real-world projects to master Python and its applications. | [Here](https://github.com/topereira07/python_bootcamp100days) |
 | Book Library Inventory | A management book Store, backend in Java with persistence using MySql, basic CRUD operations, deployed with Docker or Tomcat. | [Here](https://github.com/topereira07/library_inventory) |
 | MyPhysio Clinic | First freelance project, a physiotherapy clinic SPA, with backend in NodeJs, with API for email receiving and GoogleMaps, deployed with Netlify. | [Here](https://myphysio.netlify.app/) |
 | 1992 Barcelona SPA | An Spa, with mini games and a quizz, about 1992 olympic games @ Barcelona, created in 24h during the bootcamp at codeforall_. | [Here](https://github.com/topereira07/1992-Barcelona-SPA) |
